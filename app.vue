@@ -34,7 +34,7 @@ useSeoMeta({
   twitterCard: 'summary_large_image',
   twitterImage: ImageUrl,
   twitterImageAlt: title,
-  twitterCreator: '@luobogooooo',
+  twitterCreator: '',
 })
 
 useHead({
