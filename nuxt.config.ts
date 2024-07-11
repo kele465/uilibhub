@@ -75,6 +75,6 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   devServer: {
     host: '0.0.0.0', // 这允许外部访问
-    port: 3000 // 可选：指定端口，默认是 3000
+    port: 3002 // 可选：指定端口，默认是 3000
   }
 })
