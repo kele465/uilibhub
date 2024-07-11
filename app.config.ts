@@ -9,5 +9,5 @@ export default defineAppConfig({
       popper: { placement: "top" },
     },
   },
-  repoUrl: "https://github.com/aidevtoolkit/uilibhub",
+  repoUrl: "https://github.com/kele465/uilibhub",
 })
