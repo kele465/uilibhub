@@ -15,7 +15,7 @@ const localeHead = useLocaleHead({
   addSeoAttributes: true,
 })
 
-const siteUrl = 'https://uilibhub.com'
+const siteUrl = 'https://index.vapeshop.eu.org'
 const ImageUrl = 'https://uilibhub.com/og.png'
 
 useSeoMeta({
